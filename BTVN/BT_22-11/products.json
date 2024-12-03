@@ -1,0 +1,30 @@
+[
+  {
+    "id": "012",
+    "image": "uploads/iphone-11.jpeg",
+    "name": "Iphone 11 ",
+    "price": "13000000",
+    "description": "New 99% - 64GB - 4GB Ram"
+  },
+  {
+    "id": "013",
+    "image": "uploads/iphone-14-promax.jpeg",
+    "name": "Iphone 14 Promax",
+    "price": "25000000",
+    "description": "New 100% - 256GB - 4GB Ram"
+  },
+  {
+    "id": "014",
+    "image": "uploads/iphone-14.jpeg",
+    "name": "Iphone 14 Pro",
+    "price": "28000000",
+    "description": "New 99% - 128GB - 4GB Ram"
+  },
+  {
+    "id": "015",
+    "image": "uploads/iphone-16-plus-1.jpeg",
+    "name": "Iphone 16 Plus",
+    "price": "30000000",
+    "description": "New 99% - 512GB - 6GB Ram"
+  }
+]
